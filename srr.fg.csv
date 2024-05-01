@@ -1,0 +1,85 @@
+query_filename,rank,query_name,query_md5,match_name,match_md5,intersect_bp
+outputs.paper/trim/SRR606249.trim.fq.gz,0,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000013645.1 Paraburkholderia xenovorans LB400 strain=LB400, ASM1364v1",ee9cb05018009af43429e83e7d502a0a,9304
+outputs.paper/trim/SRR606249.trim.fq.gz,1,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000009705.1 Nostoc sp. PCC 7120 = FACHB-418 strain=PCC 7120, ASM970v1",264cfdad44548ad96c4a24b6a514a877,7288
+outputs.paper/trim/SRR606249.trim.fq.gz,2,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000196115.1 Rhodopirellula baltica SH 1 strain=1, ASM19611v1",7141c3fbf206734950d13cadba0bf46c,7039
+outputs.paper/trim/SRR606249.trim.fq.gz,3,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCA_000018565.1 Herpetosiphon aurantiacus DSM 785, ASM1856v1",5165e0f27ae96c8a78da00c2d30a8e36,6604
+outputs.paper/trim/SRR606249.trim.fq.gz,4,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_020179505.1 Bacteroides thetaiotaomicron strain=Bt9236, ASM2017950v1",873822246822f8b6bfb60146d937a0d6,6326
+outputs.paper/trim/SRR606249.trim.fq.gz,5,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000007345.1 Methanosarcina acetivorans C2A strain=C2A, ASM734v1",56bdd31d168788f6b31dcd0751089a62,5422
+outputs.paper/trim/SRR606249.trim.fq.gz,6,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000021665.1 Shewanella baltica OS223 strain=OS223, ASM2166v1",38729c6374925585db28916b82a6f513,5187
+outputs.paper/trim/SRR606249.trim.fq.gz,7,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000195675.1 Bordetella bronchiseptica RB50 strain=RB50, ASM19567v1",4d260a2e768d27ef2e2ec65bc61f4a57,5158
+outputs.paper/trim/SRR606249.trim.fq.gz,8,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000016425.1 Salinispora tropica CNB-440 strain=CNB-440, ASM1642v1",e41c93cc239f49bd10ebd38dfd343075,5062
+outputs.paper/trim/SRR606249.trim.fq.gz,9,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000018865.1 Chloroflexus aurantiacus J-10-fl strain=J-10-fl, ASM1886v1",dfa50aeabf6119ce79f0df1cf8158008,5049
+outputs.paper/trim/SRR606249.trim.fq.gz,10,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_002959625.1 Bacteroides vulgatus strain=ATCC 8492, ASM295962v1",6adb50e9af41350a70ae1c547d324917,4947
+outputs.paper/trim/SRR606249.trim.fq.gz,11,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000019785.1 Leptothrix cholodnii SP-6 strain=SP-6, ASM1978v1",0f774696d30402cc9416e4339e29d022,4743
+outputs.paper/trim/SRR606249.trim.fq.gz,12,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000010305.1 Gemmatimonas aurantiaca T-27 strain=T-27, ASM1030v1",f3b3f1fde1daf747380e5c34717b290f,4629
+outputs.paper/trim/SRR606249.trim.fq.gz,13,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000011965.2 Ruegeria pomeroyi DSS-3 strain=DSS-3, ASM1196v2",357c0e8c59953384de1f6c7605a60317,4529
+outputs.paper/trim/SRR606249.trim.fq.gz,14,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000373845.1 Salinispora arenicola CNS673 strain=CNS673, ASM37384v1",5ce6c06fa71720b366c72138a273d4fe,4260
+outputs.paper/trim/SRR606249.trim.fq.gz,15,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000022565.1 Acidobacterium capsulatum ATCC 51196 strain=ATCC 51196, ASM2256v1",324074c7287ed934af4fd0a6a459aa30,4167
+outputs.paper/trim/SRR606249.trim.fq.gz,16,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000025685.1 Haloferax volcanii DS2 strain=DS2, ASM2568v1",f299f676fc8922337c2c5d4c7d12e93a,3932
+outputs.paper/trim/SRR606249.trim.fq.gz,17,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000152645.1 Sulfitobacter sp. NAS-14.1 strain=NAS-14.1, ASM15264v1",5f3cd303f3759ada3b1da0fe9f63c1f8,3854
+outputs.paper/trim/SRR606249.trim.fq.gz,18,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_019904315.1 Geobacter sulfurreducens strain=PCA_v2, ASM1990431v1",de60e2d2b207e0ee10dd7c50ac817abb,3777
+outputs.paper/trim/SRR606249.trim.fq.gz,19,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000015865.1 Hungateiclostridium thermocellum ATCC 27405 strain=ATCC 27405, ASM1586v1",f16ed0263d531574f7b8c00b25abb975,3656
+outputs.paper/trim/SRR606249.trim.fq.gz,20,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCA_003513425.1 Desulfovibrio sp., ASM351342v1",1c729d1b4c2b2aacad37b5a8530f2850,3247
+outputs.paper/trim/SRR606249.trim.fq.gz,21,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_020546685.1 Deinococcus radiodurans ATCC 13939 strain=ATCC 13939, ASM2054668v1",5164cdbb6aabe74311ef1c55aed103b8,3202
+outputs.paper/trim/SRR606249.trim.fq.gz,22,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000020645.1 Pelodictyon phaeoclathratiforme BU-1 strain=BU-1, ASM2064v1",9b9d2415557f08b37f99abd7b8acc396,2963
+outputs.paper/trim/SRR606249.trim.fq.gz,23,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000015125.1 Chlorobium phaeobacteroides DSM 266 strain=DSM 266, ASM1512v1",9902df09c49eae79932ef40dccd508d7,2875
+outputs.paper/trim/SRR606249.trim.fq.gz,24,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000156375.1 Desulfovibrio piger ATCC 29098 strain=ATCC 29098, ASM15637v1",112f1147a84d405033898f45cd1ef747,2862
+outputs.paper/trim/SRR606249.trim.fq.gz,25,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000008185.1 Treponema denticola ATCC 35405 strain=ATCC 35405, ASM818v1",16fb896404e24616e97adafab029a609,2848
+outputs.paper/trim/SRR606249.trim.fq.gz,26,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000022325.1 Caldicellulosiruptor bescii DSM 6725 strain=DSM 6725, ASM2232v1",ed73b1c07017b8ce33f625409b0fd142,2779
+outputs.paper/trim/SRR606249.trim.fq.gz,27,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000009145.1 Nitrosomonas europaea ATCC 19718 strain=ATCC 19718, ASM914v1",d8ad9d2820efee039b6c50a767a603c8,2727
+outputs.paper/trim/SRR606249.trim.fq.gz,28,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_008000975.1 Akkermansia muciniphila strain=DSM 22959, ASM800097v1",f3a90d4e5528864a5bcc8434b0d0c3b1,2701
+outputs.paper/trim/SRR606249.trim.fq.gz,29,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000172575.2 Enterococcus faecalis OG1RF strain=OG1RF, ASM17257v2",cc3d6c32716f72f09e2d175fb156dc2b,2688
+outputs.paper/trim/SRR606249.trim.fq.gz,30,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000011205.1 Sulfurisphaera tokodaii str. 7 strain=7, ASM1120v1",15d80d7279c7fe46d00c230ba79b81f3,2679
+outputs.paper/trim/SRR606249.trim.fq.gz,31,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000020465.1 Chlorobium limicola DSM 245 strain=DSM 245, ASM2046v1",289407dcc3b5ed86aac3e60ea778049e,2672
+outputs.paper/trim/SRR606249.trim.fq.gz,32,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000017325.1 Shewanella baltica OS185 strain=OS185, ASM1732v1",09a08691ce52952152f0e866a59f6261,2639
+outputs.paper/trim/SRR606249.trim.fq.gz,33,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000016545.1 Caldicellulosiruptor saccharolyticus DSM 8903 strain=DSM 8903, ASM1654v1",8951157d23d89e5767ac5c7752d251d7,2601
+outputs.paper/trim/SRR606249.trim.fq.gz,34,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCA_003514505.1 Proteiniclasticum sp., ASM351450v1",fe6d742c112f60d53d86508f92cd2b32,2516
+outputs.paper/trim/SRR606249.trim.fq.gz,35,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_013137915.1 Fusobacterium nucleatum strain=Fn12230, ASM1313791v1",a4026f5ca15ccc6b14abb7b7e5e494cb,2463
+outputs.paper/trim/SRR606249.trim.fq.gz,36,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000007225.1 Pyrobaculum aerophilum str. IM2 strain=IM2, ASM722v1",4a154932a9c5ad4a44c2692edf8a6b34,2247
+outputs.paper/trim/SRR606249.trim.fq.gz,37,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000019085.1 Thermoanaerobacter pseudethanolicus ATCC 33223 strain=ATCC 33223; 39E, ASM1908v1",123f408fa4f07b259bd53f8497dd56d2,2209
+outputs.paper/trim/SRR606249.trim.fq.gz,38,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000006985.1 Chlorobaculum tepidum TLS strain=TLS, ASM698v1",d49c2de1c1a924d92e841802e1c57c93,2165
+outputs.paper/trim/SRR606249.trim.fq.gz,39,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000016385.1 Pyrobaculum arsenaticum DSM 13514 strain=DSM 13514, ASM1638v1",299321db294df4cb4ec008e414d200ae,2157
+outputs.paper/trim/SRR606249.trim.fq.gz,40,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_019884805.1 Thermus thermophilus strain=N-1, ASM1988480v1",431dbe0f438bd780faa91c0f8dfd3195,2142
+outputs.paper/trim/SRR606249.trim.fq.gz,41,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000008665.1 Archaeoglobus fulgidus DSM 4304 strain=DSM 4304, ASM866v1",cee0a3fb7b00990a22be02b2b0a78418,2139
+outputs.paper/trim/SRR606249.trim.fq.gz,42,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_020162135.1 Zymomonas mobilis strain=ZM481, ASM2016213v1",3c8ceb28ca13187dfa48770a6d971c1c,2131
+outputs.paper/trim/SRR606249.trim.fq.gz,43,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_001314265.1 Porphyromonas gingivalis 381 strain=381, ASM131426v1",e7e266e536fc440fcfa4d2bb82cff958,2109
+outputs.paper/trim/SRR606249.trim.fq.gz,44,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_900637325.1 Wolinella succinogenes strain=NCTC11488, 50569_E01",cdce2f97e9d8a510cf0ad4ea74b3868d,2030
+outputs.paper/trim/SRR606249.trim.fq.gz,45,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000021565.1 Persephonella marina EX-H1 strain=EX-H1, ASM2156v1",05abaf28975f70b7399c549052f64e01,1997
+outputs.paper/trim/SRR606249.trim.fq.gz,46,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000015805.1 Pyrobaculum calidifontis JCM 11548 strain=JCM 11548, ASM1580v1",ad83523f64ee0e17faf8b825d5201533,1980
+outputs.paper/trim/SRR606249.trim.fq.gz,47,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCA_003517435.1 Chlorobium sp., ASM351743v1",3edf2e121d921fccf8e96d1287bd5e8a,1972
+outputs.paper/trim/SRR606249.trim.fq.gz,48,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000152605.1 Sulfitobacter sp. EE-36 strain=EE-36, ASM15260v1",272eda69da90813c8c2e841e0555e5b0,1952
+outputs.paper/trim/SRR606249.trim.fq.gz,49,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000018945.1 Thermotoga neapolitana DSM 4359 strain=DSM 4359, ASM1894v1",1d815f5d470aaafbbca434a2c84f7dc1,1851
+outputs.paper/trim/SRR606249.trim.fq.gz,50,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000021645.1 Dictyoglomus turgidum DSM 6724 strain=DSM 6724, ASM2164v1",85e27bbbee2de4bc1b92fdf87495eb2e,1839
+outputs.paper/trim/SRR606249.trim.fq.gz,51,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000007305.1 Pyrococcus furiosus DSM 3638 strain=DSM 3638, ASM730v1",714aa2c36122b1f1c0e8400e4d236e3b,1837
+outputs.paper/trim/SRR606249.trim.fq.gz,52,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000016125.1 Methanococcus maripaludis C5 strain=C5, ASM1612v1",4fcde47fa8b1e68ce4173be350ee2711,1775
+outputs.paper/trim/SRR606249.trim.fq.gz,53,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000011105.1 Pyrococcus horikoshii OT3 strain=OT3, ASM1110v1",8acbe1802aebe9f0c23cc5428ac003ee,1741
+outputs.paper/trim/SRR606249.trim.fq.gz,54,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000091665.1 Methanocaldococcus jannaschii DSM 2661 strain=DSM 2661, ASM9166v1",ca6869d4abc24811464383043b077800,1679
+outputs.paper/trim/SRR606249.trim.fq.gz,55,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000019625.1 Thermotoga sp. RQ2 strain=RQ2, ASM1962v1",411679f88e1e2e6c7c70fbdc45cb3116,1672
+outputs.paper/trim/SRR606249.trim.fq.gz,56,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000007185.1 Methanopyrus kandleri AV19 strain=AV19, ASM718v1",78e186071f95b5f58b294343ce2d7ff8,1631
+outputs.paper/trim/SRR606249.trim.fq.gz,57,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCA_003510745.1 Sulfurihydrogenibium sp., ASM351074v1",4aac4c04a1722458f2a4c4f8a11481f9,1569
+outputs.paper/trim/SRR606249.trim.fq.gz,58,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCA_003543175.1 Hydrogenobaculum sp., ASM354317v1",da359c7d4839e1bd472c065804809a68,1563
+outputs.paper/trim/SRR606249.trim.fq.gz,59,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000011585.1 Methanococcus maripaludis S2 strain=S2, ASM1158v1",d45be194ffb4596d4fa8845dd89d8d8d,1513
+outputs.paper/trim/SRR606249.trim.fq.gz,60,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000025665.1 Aciduliprofundum boonei T469 strain=T469, ASM2566v1",c11126d0591db94cd3d1c8568499375f,1477
+outputs.paper/trim/SRR606249.trim.fq.gz,61,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000017945.1 Ignicoccus hospitalis KIN4/I strain=KIN4/I, ASM1794v1",ed88074adf58a9cfce3a6e63ad414853,1284
+outputs.paper/trim/SRR606249.trim.fq.gz,62,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000173615.1 Sulfurihydrogenibium yellowstonense SS-5 strain=SS-5, ASM17361v1",ea1af81ce1042a3aaa59f860b8a39573,1132
+outputs.paper/trim/SRR606249.trim.fq.gz,63,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000016785.1 Thermotoga petrophila RKU-1 strain=RKU-1, ASM1678v1",745322649f94665adf60b2ee985746ca,734
+outputs.paper/trim/SRR606249.trim.fq.gz,64,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_016648735.1 Streptococcus parasanguinis strain=12.1, ASM1664873v1",f870793cbe085f6f001ea3d4dd8aedec,514
+outputs.paper/trim/SRR606249.trim.fq.gz,65,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCA_000008085.1 Nanoarchaeum equitans Kin4-M, ASM808v1",d9e98fc66928684bf96f0aaeb4adcb6e,431
+outputs.paper/trim/SRR606249.trim.fq.gz,66,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCA_011765705.1 Salinispora arenicola strain=BRA 172, ASM1176570v1",8e4e26b33e130b40fd96a9f2692d164b,419
+outputs.paper/trim/SRR606249.trim.fq.gz,67,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000015485.1 Desulfovibrio vulgaris DP4 strain=DP4, ASM1548v1",4f6060905463539fc92cb5ee67552db5,368
+outputs.paper/trim/SRR606249.trim.fq.gz,68,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_002799245.1 Stenotrophomonas maltophilia strain=EA1, ASM279924v1",03c6e78f14ab8af588f748653db2d6fb,202
+outputs.paper/trim/SRR606249.trim.fq.gz,69,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000019485.1 Synechococcus sp. PCC 7002 strain=PCC 7002, ASM1948v1",0f0d961ba85aa942ce94cced7da03771,191
+outputs.paper/trim/SRR606249.trim.fq.gz,70,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_015556095.1 Streptococcus parasanguinis strain=1001095IJ_161003_H11, ASM1555609v1",ac4365fef7173b49d2cdea0bfdd24bda,187
+outputs.paper/trim/SRR606249.trim.fq.gz,71,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000375005.1 Salinispora arenicola CNS051 strain=CNS051, ASM37500v1",0376e0e4e8f660a71512eec2bcbbc793,157
+outputs.paper/trim/SRR606249.trim.fq.gz,72,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_900115135.1 Proteiniclasticum ruminis strain=ML2, IMG-taxon 2642422541 annotated assembly",08a7e8122383feb4f03413e87457084a,140
+outputs.paper/trim/SRR606249.trim.fq.gz,73,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCA_001596115.1 Shigella sp. PAMC 28760 strain=PAMC 28760, ASM159611v1",6ae9b9827727475a424a2b460ef2bee1,116
+outputs.paper/trim/SRR606249.trim.fq.gz,74,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_015559215.1 Streptococcus parasanguinis strain=D43t1_170807_F3, ASM1555921v1",b17ad0093b4a7c3d1133b04e315960a3,108
+outputs.paper/trim/SRR606249.trim.fq.gz,75,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_020562075.1 Streptococcus salivarius strain=DFI.1.40, ASM2056207v1",448dc56d51857321fb910cde8bf212c0,85
+outputs.paper/trim/SRR606249.trim.fq.gz,76,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000144045.1 Cutibacterium acnes HL067PA1 strain=HL067PA1, ASM14404v1",09035b7cd317402c14fc924318845177,82
+outputs.paper/trim/SRR606249.trim.fq.gz,77,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_023845025.1 Salinispora arenicola strain=RJA3005, ASM2384502v1",a8fe2c92297f627b1bd5fa319f0e9fe2,78
+outputs.paper/trim/SRR606249.trim.fq.gz,78,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_015557775.1 Streptococcus parasanguinis strain=D55t1_190419_F12, ASM1555777v1",3ccfe58a75588cf84de5397eabe7187d,78
+outputs.paper/trim/SRR606249.trim.fq.gz,79,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000419565.1 Sphingomonas melonis FR1 strain=FR1, ASM41956v1",817fde92ee8bc4ba469d9aa9b75abe92,61
+outputs.paper/trim/SRR606249.trim.fq.gz,80,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000330745.1 Rhodopirellula baltica SWK14 strain=SWK14, ASM33074v1",df6e82fd69a0fcd8acd3de6a8e5f7012,60
+outputs.paper/trim/SRR606249.trim.fq.gz,81,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCA_002878035.1 Sulfurihydrogenibium sp., ASM287803v1",c4c5b7270c65ed94cfc29953a1bb31e1,57
+outputs.paper/trim/SRR606249.trim.fq.gz,82,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_001070575.1 Streptococcus parasanguinis strain=139.rep1_SPAR, ASM107057v1",1159ba591399dac22482ac002429764d,51
+outputs.paper/trim/SRR606249.trim.fq.gz,83,SRR606249,1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000377605.1 Salinispora arenicola CNT859 strain=CNT859, ASM37760v1",a424ccc8878c09c3fb9106568e750436,51
