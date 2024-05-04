@@ -1,0 +1,14 @@
+query_filename,rank,query_name,query_md5,match_name,match_md5,intersect_bp
+outputs.paper/trim/SRR606249.trim.fq.gz,0,"SRR606249",1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000013645.1 Paraburkholderia xenovorans LB400 strain=LB400, ASM1364v1",ee9cb05018009af43429e83e7d502a0a,9304
+outputs.paper/trim/SRR606249.trim.fq.gz,1,"SRR606249",1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000195675.1 Bordetella bronchiseptica RB50 strain=RB50, ASM19567v1",4d260a2e768d27ef2e2ec65bc61f4a57,5159
+outputs.paper/trim/SRR606249.trim.fq.gz,2,"SRR606249",1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000016425.1 Salinispora tropica CNB-440 strain=CNB-440, ASM1642v1",e41c93cc239f49bd10ebd38dfd343075,5062
+outputs.paper/trim/SRR606249.trim.fq.gz,3,"SRR606249",1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000018865.1 Chloroflexus aurantiacus J-10-fl strain=J-10-fl, ASM1886v1",dfa50aeabf6119ce79f0df1cf8158008,5050
+outputs.paper/trim/SRR606249.trim.fq.gz,4,"SRR606249",1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000019785.1 Leptothrix cholodnii SP-6 strain=SP-6, ASM1978v1",0f774696d30402cc9416e4339e29d022,4743
+outputs.paper/trim/SRR606249.trim.fq.gz,5,"SRR606249",1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000011965.2 Ruegeria pomeroyi DSS-3 strain=DSS-3, ASM1196v2",357c0e8c59953384de1f6c7605a60317,4529
+outputs.paper/trim/SRR606249.trim.fq.gz,6,"SRR606249",1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000373845.1 Salinispora arenicola CNS673 strain=CNS673, ASM37384v1",5ce6c06fa71720b366c72138a273d4fe,4260
+outputs.paper/trim/SRR606249.trim.fq.gz,7,"SRR606249",1b1b1d8e954aa9b36214fcaddf05c178,"GCF_020546685.1 Deinococcus radiodurans ATCC 13939 strain=ATCC 13939, ASM2054668v1",5164cdbb6aabe74311ef1c55aed103b8,3202
+outputs.paper/trim/SRR606249.trim.fq.gz,8,"SRR606249",1b1b1d8e954aa9b36214fcaddf05c178,"GCA_011765705.1 Salinispora arenicola strain=BRA 172, ASM1176570v1",8e4e26b33e130b40fd96a9f2692d164b,419
+outputs.paper/trim/SRR606249.trim.fq.gz,9,"SRR606249",1b1b1d8e954aa9b36214fcaddf05c178,"GCF_002799245.1 Stenotrophomonas maltophilia strain=EA1, ASM279924v1",03c6e78f14ab8af588f748653db2d6fb,202
+outputs.paper/trim/SRR606249.trim.fq.gz,10,"SRR606249",1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000375005.1 Salinispora arenicola CNS051 strain=CNS051, ASM37500v1",0376e0e4e8f660a71512eec2bcbbc793,157
+outputs.paper/trim/SRR606249.trim.fq.gz,11,"SRR606249",1b1b1d8e954aa9b36214fcaddf05c178,"GCF_023845025.1 Salinispora arenicola strain=RJA3005, ASM2384502v1",a8fe2c92297f627b1bd5fa319f0e9fe2,78
+outputs.paper/trim/SRR606249.trim.fq.gz,12,"SRR606249",1b1b1d8e954aa9b36214fcaddf05c178,"GCF_000377605.1 Salinispora arenicola CNT859 strain=CNT859, ASM37760v1",a424ccc8878c09c3fb9106568e750436,51
