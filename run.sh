@@ -1,6 +1,6 @@
 # commands run for each variant:
 
-sourmash gather SRR606249.trim.k31.sig.zip combined-matches-k31.sig.zip -o SRR606249.x.combined-matches.gather.csv
+#sourmash gather SRR606249.trim.k31.sig.zip combined-matches-k31.sig.zip -o SRR606249.x.combined-matches.gather.csv
 
 #sourmash scripts index -k 31 -m DNA -o combined-matches-k31.rocksdb combined-matches-k31.sig.zip
 
