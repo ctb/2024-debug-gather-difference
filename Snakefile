@@ -40,10 +40,11 @@ rule rocksdb_index_db:
         db="combined-matches-k31.sig.zip",
     output:
         rocksdb=directory("combined-matches-k31.sig.rocksdb"),
+        rocksdb_current ="combined-matches-k31.sig.rocksdb/CURRENT",
     threads: 1
     shell: """
         sourmash scripts index {input.db} -m DNA -k 31 \
-           -c {threads} -o {output}
+           -c {threads} -o {output.rocksdb}
     """
 
 rule fastmultigather_rocksdb:
