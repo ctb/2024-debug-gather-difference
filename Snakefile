@@ -1,3 +1,7 @@
+# NOTES TO SELF: important to keep threshold at 50kb, or else there is a
+# pair of ambiguous matches (Sphingomonas) where one is above 50kb and the
+# other is below, and they can occur in either order.
+
 rule all:
     input:
         "srr.fg.csv",
@@ -13,7 +17,7 @@ rule fastgather:
     threads: 8
     shell: """
         sourmash scripts fastgather {input.q} {input.db} -o {output} \
-           -t {threads}
+           -c {threads} -t 50000
     """
 
 rule fastmultigather:
@@ -26,7 +30,7 @@ rule fastmultigather:
     threads: 8
     shell: """
         sourmash scripts fastmultigather {input.q} {input.db} \
-           -t {threads}
+           -c {threads} -t 50000
         cp {output.actual} {output.rename}
     """
 
@@ -40,5 +44,5 @@ rule gather_picklist:
     shell: """
         sourmash gather {input.q} {input.db} \
             --picklist {input.picklist}:match_name:ident \
-            -o {output}
+            -o {output} --threshold-bp 50000
     """
