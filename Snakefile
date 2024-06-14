@@ -6,6 +6,7 @@ rule all:
     input:
         "srr.fg.csv",
         "srr.fmg.csv",
+        "srr.fmg-rocksdb.csv",
         "SRR606249.x.combined-matches.gather.picklist.csv",
 
 rule fastgather:
@@ -33,6 +34,32 @@ rule fastmultigather:
            -c {threads} -t 50000
         cp {output.actual} {output.rename}
     """
+
+rule rocksdb_index_db:
+    input:
+        db="combined-matches-k31.sig.zip",
+    output:
+        rocksdb=directory("combined-matches-k31.sig.rocksdb"),
+    threads: 1
+    shell: """
+        sourmash scripts index {input.db} -m DNA -k 31 \
+           -c {threads} -o {output}
+    """
+
+rule fastmultigather_rocksdb:
+    input:
+        q="SRR606249.trim.k31.sig.zip",
+        db_current="combined-matches-k31.sig.rocksdb/CURRENT",
+    output:
+        output="srr.fmg-rocksdb.csv",
+    threads: 8
+    params:
+        db="combined-matches-k31.sig.rocksdb",
+    shell: """
+        sourmash scripts fastmultigather {input.q} {params.db} \
+           -c {threads} -t 50000 -o {output}
+    """
+
 
 rule gather_picklist:
     input:
