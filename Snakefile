@@ -48,7 +48,6 @@ rule rocksdb_index_db:
         db="combined-matches-k31.sig.zip",
     output:
         rocksdb=directory("combined-matches-k31.sig.rocksdb"),
-        rocksdb_current ="combined-matches-k31.sig.rocksdb/CURRENT",
     threads: 1
     shell: """
         sourmash scripts index {input.db} -m DNA -k 31 \
@@ -58,14 +57,12 @@ rule rocksdb_index_db:
 rule fastmultigather_rocksdb:
     input:
         q="SRR606249.trim.k31.sig.zip",
-        db_current="combined-matches-k31.sig.rocksdb/CURRENT",
+        db="combined-matches-k31.sig.rocksdb",
     output:
         output="srr.fmg-rocksdb.csv",
     threads: 8
-    params:
-        db="combined-matches-k31.sig.rocksdb",
     shell: """
-        sourmash scripts fastmultigather {input.q} {params.db} \
+        sourmash scripts fastmultigather {input.q} {input.db} \
            -c {threads} -t 50000 -o {output}
     """
 
