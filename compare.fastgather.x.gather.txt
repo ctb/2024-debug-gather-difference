@@ -10,5 +10,4 @@ examining core column values...
 congrats! two spreadsheets contain identical core columns!
 
 
-columns with differences:
-* match_filename
+** no columns with significant differences! :tada: **

@@ -136,11 +136,6 @@ def main():
         col2.sort()
         same = col1 == col2
         if not same:
-            if name == 'f_match':
-                import pprint
-                for n, (x, y) in enumerate(zip_longest(col1, col2)):
-                    pprint.pprint((n, x, y, x==y))
-            xx_diff.append(name)
             diff_values[name] = (col1, col2)
         else:
             xx_same.append(name)
@@ -161,8 +156,6 @@ def main():
         # remove still-expected differences.
         if 'match_filename' in xx_diff:
             xx_diff.remove('match_filename')
-        if 'sum_weighted_found' in xx_diff:
-            xx_diff.remove('sum_weighted_found')
 
         if xx_diff:
             return -1
