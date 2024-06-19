@@ -1,0 +1,9 @@
+loading 'srr.fg.csv'
+loading 'srr.fmg-rocksdb.csv'
+loaded! examining column headers...
+
+examining core column values...
+congrats! two spreadsheets contain identical core columns!
+
+
+** no columns with significant differences! :tada: **

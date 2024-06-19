@@ -1,0 +1,4 @@
+.snakemake
+*~
+SRR606249.gather.csv
+SRR606249.prefetch.csv
