@@ -1,0 +1,14 @@
+loading 'srr.fg.csv'
+loading 'SRR606249.x.combined-matches.gather.picklist.csv'
+renaming old-school gather column names to Tessa's favorite names
+loaded! examining column headers...
+in second, but not first: {'potential_false_negative'}
+looks like 'SRR606249.x.combined-matches.gather.picklist.csv' is from sourmash gather v4!
+(this is an acceptable difference. continuing!
+
+examining core column values...
+congrats! two spreadsheets contain identical core columns!
+
+
+columns with differences:
+* match_filename

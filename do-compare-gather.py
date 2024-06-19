@@ -136,6 +136,10 @@ def main():
         col2.sort()
         same = col1 == col2
         if not same:
+            if name == 'f_match':
+                import pprint
+                for n, (x, y) in enumerate(zip_longest(col1, col2)):
+                    pprint.pprint((n, x, y, x==y))
             xx_diff.append(name)
             diff_values[name] = (col1, col2)
         else:
@@ -144,8 +148,24 @@ def main():
     if args.verbose:
         print("same:")
         print("*", "\n* ".join(xx_same))
-    print("columns with differences:")
-    print("*", "\n* ".join(xx_diff))
+
+    print("\n")
+
+    if xx_diff:
+        print("columns with differences:")
+        print("*", "\n* ".join(xx_diff))
+    else:
+        print("** no columns with significant differences! :tada: **")
+
+    if xx_diff:
+        # remove still-expected differences.
+        if 'match_filename' in xx_diff:
+            xx_diff.remove('match_filename')
+        if 'sum_weighted_found' in xx_diff:
+            xx_diff.remove('sum_weighted_found')
+
+        if xx_diff:
+            return -1
     
 
 if __name__ == '__main__':

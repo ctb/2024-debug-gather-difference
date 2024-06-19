@@ -2,12 +2,20 @@
 # pair of ambiguous matches (Sphingomonas) where one is above 50kb and the
 # other is below, and they can occur in either order.
 
+comparisons = dict(fastgather="srr.fg.csv",
+                   fastmultigather="srr.fmg.csv",
+                   fastmultirocks="srr.fmg-rocksdb.csv",
+                   gather="SRR606249.x.combined-matches.gather.picklist.csv")
+
 rule all:
     input:
         "srr.fg.csv",
         "srr.fmg.csv",
         "srr.fmg-rocksdb.csv",
         "SRR606249.x.combined-matches.gather.picklist.csv",
+        "compare.fastgather.x.fastmultigather.txt",
+        "compare.fastgather.x.fastmultirocks.txt",
+        "compare.fastgather.x.gather.txt",
 
 rule fastgather:
     input:
@@ -74,3 +82,35 @@ rule gather_picklist:
             --picklist {input.picklist}:match_name:ident \
             -o {output} --threshold-bp 50000
     """
+
+rule a:
+    input:
+        x="srr.fg.csv",
+        y="srr.fmg.csv",
+        script="do-compare-gather.py"
+    output:
+        "compare.fastgather.x.fastmultigather.txt",
+    shell:
+        "./do-compare-gather.py {input.x} {input.y} | tee {output}"
+
+rule b:
+    input:
+        x="srr.fg.csv",
+        y="srr.fmg-rocksdb.csv",
+        script="do-compare-gather.py"
+    output:
+        "compare.fastgather.x.fastmultirocks.txt",
+    shell:
+        "./do-compare-gather.py {input.x} {input.y} | tee {output}"
+
+rule c:
+    input:
+        x="srr.fg.csv",
+        y="SRR606249.x.combined-matches.gather.picklist.csv",
+        script="do-compare-gather.py"
+    output:
+        "compare.fastgather.x.gather.txt",
+    shell:
+        "./do-compare-gather.py {input.x} {input.y} | tee {output}"
+
+    
