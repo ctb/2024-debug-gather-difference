@@ -1,5 +1,6 @@
 # 2024-debug-gather-difference
 
-`make` to build the CSVs from `sourmash` and `sourmash_plugin_branchwater`
-
-Then run `compare-picklist.ipynb`.
+`make cleanall` to build the CSVs from `sourmash` and
+`sourmash_plugin_branchwater`. This will also produce a bunch
+of `compare*.txt` files that do the comparisons - those are the
+files to check out.
